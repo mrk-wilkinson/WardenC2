@@ -1,0 +1,12 @@
+[submodule "Jailer"]
+	path = Jailer
+	url = https://github.com/mrk-wilkinson/Jailer
+[submodule "PrisonYard"]
+	path = PrisonYard
+	url = https://github.com/mrk-wilkinson/PrisonYard
+[submodule "Justice"]
+	path = Justice
+	url = https://github.com/mrk-wilkinson/Justice
+[submodule "Inmates/SampleInmate"]
+	path = Inmates/SampleInmate
+	url = https://github.com/mrk-wilkinson/Inmate
